@@ -1,0 +1,132 @@
+a{
+  text-decoration: none;
+ }
+.hidden{
+  display: none!important;
+}
+.header{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+}
+.header label{
+  width:50%;
+}
+.header a{
+  margin:auto 0;
+}
+
+.deleted{
+  background-color: #fd44ad!important;
+}
+.btn-holder{
+  display: flex;
+  justify-content: space-around;
+}
+textarea {
+  height: 10rem;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: none;
+}
+/*  
+ 
+
+
+  label {
+    width: 100%;
+    display: inline-block;
+  }
+
+input[type=text],  select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=number],.nepaliNumberInput {
+  width: 49% !important;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+input[type=submit] {
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+input[type=reset] {
+  width: 40%;
+  background-color: #f33a34;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=reset]:hover {
+  background-color: #f82a2a;
+}
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #dddddd;
+}
+thead{
+  
+  background-color: red;
+}
+thead th{
+text-align: center;
+}
+.btn-holder{
+  display: flex;
+  justify-content: space-around;
+}
+#loginForm input{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  } */
