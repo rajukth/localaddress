@@ -1,5 +1,5 @@
-const siteUrl = "https://localhost:44308/api";
-//const siteUrl = "https://localaddress.dilliramkhatiwada.com.np/api";
+//const siteUrl = "https://localhost:44308/api";
+const siteUrl = "https://localaddress.dilliramkhatiwada.com.np/api";
 document.addEventListener("DOMContentLoaded", function () {
 
 const login=document.getElementById("login");
@@ -84,11 +84,5 @@ goBack.addEventListener("click",function(){
             console.error("Login failed:", textStatus, errorThrown);
         }
     });
-})
-
-
-    }
-
-   
-
+});  }
 });
